@@ -1,0 +1,14 @@
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\Sample.API2\bin\Debug\netcoreapp2.1\Sample.API2.deps.json
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\Sample.API2\bin\Debug\netcoreapp2.1\Sample.API2.runtimeconfig.json
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\Sample.API2\bin\Debug\netcoreapp2.1\Sample.API2.runtimeconfig.dev.json
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\Sample.API2\bin\Debug\netcoreapp2.1\Sample.API2.dll
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\Sample.API2\bin\Debug\netcoreapp2.1\Sample.API2.pdb
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\Sample.API2\obj\Debug\netcoreapp2.1\Sample.API2.csproj.CoreCompileInputs.cache
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\Sample.API2\obj\Debug\netcoreapp2.1\Sample.API2.RazorAssemblyInfo.cache
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\Sample.API2\obj\Debug\netcoreapp2.1\Sample.API2.RazorAssemblyInfo.cs
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\Sample.API2\obj\Debug\netcoreapp2.1\Sample.API2.AssemblyInfoInputs.cache
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\Sample.API2\obj\Debug\netcoreapp2.1\Sample.API2.AssemblyInfo.cs
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\Sample.API2\obj\Debug\netcoreapp2.1\Sample.API2.RazorTargetAssemblyInfo.cache
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\Sample.API2\obj\Debug\netcoreapp2.1\Sample.API2.dll
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\Sample.API2\obj\Debug\netcoreapp2.1\Sample.API2.pdb
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\Sample.API2\obj\Debug\netcoreapp2.1\Sample.API2.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\HelloWorldTests2\bin\x86\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\HelloWorldTests2\bin\x86\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\HelloWorldTests2\bin\x86\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\HelloWorldTests2\bin\x86\Debug\netcoreapp2.1\HelloWorldTests2.deps.json
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\HelloWorldTests2\bin\x86\Debug\netcoreapp2.1\HelloWorldTests2.runtimeconfig.json
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\HelloWorldTests2\bin\x86\Debug\netcoreapp2.1\HelloWorldTests2.runtimeconfig.dev.json
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\HelloWorldTests2\bin\x86\Debug\netcoreapp2.1\HelloWorldTests2.dll
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\HelloWorldTests2\bin\x86\Debug\netcoreapp2.1\HelloWorldTests2.pdb
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\HelloWorldTests2\bin\x86\Debug\netcoreapp2.1\Sample.API.dll
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\HelloWorldTests2\bin\x86\Debug\netcoreapp2.1\Sample.API.pdb
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\HelloWorldTests2\obj\x86\Debug\netcoreapp2.1\HelloWorldTests2.csprojAssemblyReference.cache
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\HelloWorldTests2\obj\x86\Debug\netcoreapp2.1\HelloWorldTests2.csproj.CoreCompileInputs.cache
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\HelloWorldTests2\obj\x86\Debug\netcoreapp2.1\HelloWorldTests2.AssemblyInfoInputs.cache
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\HelloWorldTests2\obj\x86\Debug\netcoreapp2.1\HelloWorldTests2.AssemblyInfo.cs
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\HelloWorldTests2\obj\x86\Debug\netcoreapp2.1\HelloWorldTests2.csproj.CopyComplete
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\HelloWorldTests2\obj\x86\Debug\netcoreapp2.1\HelloWorldTests2.dll
+C:\Users\dannyd1221\Documents\Visual Studio 2017\Projects\Sample.API2\HelloWorldTests2\obj\x86\Debug\netcoreapp2.1\HelloWorldTests2.pdb
